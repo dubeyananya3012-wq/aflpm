@@ -1,0 +1,7 @@
+CMAPSSData/
+CMAPSSData_final/
+cwru_raw/
+checkpoints/
+figures/
+*.zip
+*.pth
